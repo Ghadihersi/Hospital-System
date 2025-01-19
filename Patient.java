@@ -1,10 +1,4 @@
-/**
- * Name:Ghadi Hersi
- * ID;2105350
- * Section:GAR
- *Course name:CPCS203
- *Assignment;2
- **/
+
 package kauhospitalsystem;
 
 
